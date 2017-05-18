@@ -3,7 +3,7 @@ body {
 }
 
 .container-fluid {
-  background: url('./images/dayoh-bgnd.png');
+  background: url('../images/dayoh-bgnd.png');
   background-size: cover;
   background-position: center;
   padding: 0px;
@@ -190,7 +190,7 @@ body {
   flex-grow: 1;
   height: 800px;
   overflow-x: hidden;
-  background: url('./images/iPhone.png');
+  background: url('../images/iPhone.png');
   background-position: 0 150px;
   background-size: cover;
   background-size: contain;
