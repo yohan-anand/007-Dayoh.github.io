@@ -190,7 +190,7 @@ body {
   flex-grow: 1;
   height: 800px;
   overflow-x: hidden;
-  background: url('./images/iPhone.png');
+  background: url('./images/iphone.png');
   background-position: 0 150px;
   background-size: cover;
   background-size: contain;
